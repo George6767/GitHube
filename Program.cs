@@ -10,7 +10,7 @@ namespace GitHube
     {
         static void Main(string[] args)
         {
-            // come va?
+            
             //bene
         }
     }
